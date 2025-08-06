@@ -1,6 +1,0 @@
-﻿  main.cpp
-C:\Users\chris\OneDrive\Desktop\cs32\project-4\BruinTour\stops.h(32,45): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-  tour_generator.cpp
-C:\Users\chris\OneDrive\Desktop\cs32\project-4\BruinTour\stops.h(32,45): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-  Generating Code...
-  BruinTour.vcxproj -> C:\Users\chris\OneDrive\Desktop\cs32\project-4\BruinTour\x64\Debug\BruinTour.exe

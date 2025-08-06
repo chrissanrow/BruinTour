@@ -1,0 +1,20 @@
+
+# Visual Studio
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+
+BruinTour/.vs/
+
+# Build files / directories
+*.o
+*.obj
+*.exe
+*.out
+*.log
+*.dll
+*.so
+*.a
+
+BruinTour/x64/
