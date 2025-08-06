@@ -1,0 +1,13 @@
+.vscode/
+
+# Build files / directories
+*.o
+*.obj
+*.exe
+*.out
+*.log
+*.dll
+*.so
+*.a
+
+x64/
